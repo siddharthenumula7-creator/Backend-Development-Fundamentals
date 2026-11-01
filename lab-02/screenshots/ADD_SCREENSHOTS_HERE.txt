@@ -1,0 +1,2 @@
+Capture your actual Postman responses and SQLite database view, then save the PNG files here.
+Use the filenames listed in README.md so the images appear in the README.
