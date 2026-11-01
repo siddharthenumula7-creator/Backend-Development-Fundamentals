@@ -1,7 +1,7 @@
 # Lab 2: SQLite Database and CRUD Routes
 
 **Name:** Enumula Siddharth Reddy  
-**Registration Number:** Add your registration number  
+**Registration Number:** 252U1R6064 
 **Section:** AIML-2B
 
 **Live link:** Not deployed yet. This project uses a local SQLite database.
