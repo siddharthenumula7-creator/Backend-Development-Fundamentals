@@ -138,24 +138,3 @@ The request object contains information about the incoming HTTP request. The res
 
 Add any other issues you faced and how you solved them.
 
-## Deployment
-
-**Live link:** Add your deployed public URL here after deploying the server. If you cannot deploy it, write `Not deployed` and explain why.
-
-## GitHub submission checklist
-
-- [ ] Add your registration number.
-- [ ] Run the project and test all four endpoint cases.
-- [ ] Add `home.png`, `about.png`, `time.png`, and `not-found.png` to `screenshots/`.
-- [ ] Confirm the screenshots appear in the README preview.
-- [ ] Add your deployment URL, or explain why deployment was not possible.
-- [ ] Do not commit `node_modules/` or `.env`.
-- [ ] Push the project to your course GitHub repository in the `lab-01/` folder.
-
-Save your four actual browser screenshots in this folder using these filenames:
-home.png       - GET http://localhost:3000/
-about.png      - GET http://localhost:3000/about
-time.png       - GET http://localhost:3000/time
-not-found.png  - GET http://localhost:3000/notfound (404 response)
-
-The README.md in the project root already contains Markdown image links to these files.
