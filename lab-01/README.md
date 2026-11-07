@@ -156,6 +156,6 @@ Save your four actual browser screenshots in this folder using these filenames:
 home.png       - GET http://localhost:3000/
 about.png      - GET http://localhost:3000/about
 time.png       - GET http://localhost:3000/time
-not-found.png  - GET http://localhost:3000/test (404 response)
+not-found.png  - GET http://localhost:3000/notfound (404 response)
 
 The README.md in the project root already contains Markdown image links to these files.
