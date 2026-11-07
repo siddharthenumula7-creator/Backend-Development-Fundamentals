@@ -1,7 +1,7 @@
 # Lab 1: Node.js and Express server
 
-**Name:Enumula Siddharth Reddy
-**Registration number:** Add your registration number  
+**Name**:Enumula Siddharth Reddy
+**Registration number:** 252U1R6064  
 **Section:** AIML-2B
 
 ## Objective
