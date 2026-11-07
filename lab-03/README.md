@@ -109,6 +109,3 @@ Postman screenshots:
 
 ## Notes
 This project uses sql.js, which runs SQLite through WebAssembly and avoids compiling a native Node.js addon. SQL values use prepared statements and bound parameters. Sort columns are selected from an allowlist.
-
-## Submission
-Add your own screenshots and personal details. Never commit `.env`, passwords, or `node_modules`. Review and understand the code before submitting; be prepared to explain it in your viva.
