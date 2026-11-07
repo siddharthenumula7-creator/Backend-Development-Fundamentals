@@ -104,7 +104,6 @@ Add your Postman and SQLite screenshots to this folder. Suggested filenames:
 - `screenshots/post-book.png`
 - `screenshots/put-book.png`
 - `screenshots/delete-book.png`
-- `screenshots/database.png`
 
 ![GET all books](screenshots/get-all-books.png)
 
