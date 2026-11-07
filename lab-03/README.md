@@ -82,10 +82,24 @@ Send JSON to `POST /books`:
 11. `DELETE http://localhost:3000/books/99999` — expect 404 if that ID does not exist.
 
 ## Screenshots
-Save your Postman and database screenshots in `screenshots/` and embed them here, for example:
-```md
+Postman screenshots:
+### 1. GET All Books
 ![GET all books](screenshots/get-books.png)
-```
+
+### 2. POST - Add Book
+![POST book](screenshots/add-book.png)
+
+### 3. PUT - Update Book
+![PUT book](screenshots/update-book.png)
+
+### 4. DELETE - Delete Book
+![DELETE book](screenshots/delete-book.png)
+
+### 5. Validation Error (400)
+![Validation error](screenshots/validation-error.png)
+
+### 6. Not Found Error (404)
+![Not found](screenshots/not-found.png)
 
 ## Debugging notes
 - `EADDRINUSE`: another process is using the port; stop it or choose another `PORT`.
