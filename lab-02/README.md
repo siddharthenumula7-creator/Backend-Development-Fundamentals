@@ -116,7 +116,6 @@ Add your Postman and SQLite screenshots to this folder. Suggested filenames:
 
 ![DELETE book](screenshots/delete-book.png)
 
-![SQLite database](screenshots/database.png)
 
 ## Problems Faced and Solutions
 
