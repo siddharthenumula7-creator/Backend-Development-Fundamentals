@@ -8,6 +8,10 @@
 
 A REST API for managing books using Node.js, Express.js and SQLite (via sql.js/WebAssembly). It supports CRUD operations, searching, sorting, price filters, pagination, input validation and appropriate HTTP status codes.
 
+## Deployment
+
+**Deployment Status:** https://backend-development-fundamentalslab3.onrender.com/.
+
 ## Requirements
 
 - Node.js 18 or later
@@ -165,9 +169,3 @@ Postman testing screenshots:
 - Sort columns are selected from an allowlist.
 - Input validation is implemented to prevent invalid book records.
 - Appropriate HTTP status codes and JSON responses are returned.
-
-## Deployment
-
-**Deployment Status:** https://backend-development-fundamentalslab3.onrender.com/.
-
-The project currently runs locally using Node.js and Express. Postman screenshots are included to demonstrate the working API endpoints.
