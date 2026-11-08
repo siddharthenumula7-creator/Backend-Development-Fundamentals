@@ -4,6 +4,8 @@
 **Registration number:** 252U1R6064  
 **Section:** AIML-2B
 
+**Live link:** https://backend-development-fundamentals-sqeq.onrender.com/
+
 ## Objective
 
 Set up a Node.js project, create a basic web server using Node.js' built-in `http` module, and build the same server using Express.
