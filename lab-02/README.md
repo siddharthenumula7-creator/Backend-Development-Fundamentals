@@ -4,7 +4,7 @@
 **Registration Number:** 252U1R6064 
 **Section:** AIML-2B
 
-**Live link:** Not deployed yet. This project uses a local SQLite database.
+**Live link:** https://backend-development-fundamentals-lab2-1wes.onrender.com/books
 
 ## Objective
 
