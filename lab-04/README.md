@@ -1,11 +1,13 @@
 # Lab 4: Registration, login and JWT
 
 **Name:** Enumula Siddharth Reddy
+
 **Registration number:** 252U1R6064
+
 **Section:** AIML-2B
 
 ## Live link
-Not deployed yet.
+https://backend-development-fundamentalslab4.onrender.com/
 
 ## Overview
 This project implements user registration and login using Express, SQLite, bcrypt and JSON Web Tokens (JWT). Passwords are stored as bcrypt hashes. A successful login returns a JWT containing only the username.
